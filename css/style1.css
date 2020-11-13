@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #fff8cd;
+  font-family: 'arial', sans-serif;
+}
+
+.pic{
+  height: 280px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row{
+  width: 80%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 30px;
+  margin: 50px auto 0 auto;
+  width: 50%;
+  font-family: 'Montserrat', sans-serif;
+}
+.Pro{
+  text-decoration: underline;
+  color: #6a097d;
+}
+
+.top{
+  text-align: left;
+  line-height: 1.5;
+  margin:0 50px 0 50px;
+}
+
+.middle{
+  text-align: left;
+  width: 80%;
+  line-height: 1.5;
+  margin:0 300px 0 50px;
+}
